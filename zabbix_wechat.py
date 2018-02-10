@@ -5,7 +5,7 @@ import sys
 import commands,time
 import os
 import requests
-from ceshi2 import get_graphid
+from get_graphid import get_graphid
 reload(sys)
 sys.setdefaultencoding( "utf-8" )
 
